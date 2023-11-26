@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\geek brains\examples 26.11.23\example005-hello_masha\obj\Debug\net6.0\example005-hello_masha.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\geek brains\examples 26.11.23\example005-hello_masha\obj\Debug\net6.0\example005-hello_masha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\geek brains\examples 26.11.23\example005-hello_masha\obj\Debug\net6.0\example005-hello_masha.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\geek brains\examples 26.11.23\example005-hello_masha\obj\Debug\net6.0\example005-hello_masha.AssemblyInfo.cs
+C:\Users\user\Desktop\geek brains\examples 26.11.23\example005-hello_masha\obj\Debug\net6.0\example005-hello_masha.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\geek brains\examples 26.11.23\example005-hello_masha\bin\Debug\net6.0\example005-hello_masha.exe
+C:\Users\user\Desktop\geek brains\examples 26.11.23\example005-hello_masha\bin\Debug\net6.0\example005-hello_masha.deps.json
+C:\Users\user\Desktop\geek brains\examples 26.11.23\example005-hello_masha\bin\Debug\net6.0\example005-hello_masha.runtimeconfig.json
+C:\Users\user\Desktop\geek brains\examples 26.11.23\example005-hello_masha\bin\Debug\net6.0\example005-hello_masha.dll
+C:\Users\user\Desktop\geek brains\examples 26.11.23\example005-hello_masha\bin\Debug\net6.0\example005-hello_masha.pdb
+C:\Users\user\Desktop\geek brains\examples 26.11.23\example005-hello_masha\obj\Debug\net6.0\example005-hello_masha.dll
+C:\Users\user\Desktop\geek brains\examples 26.11.23\example005-hello_masha\obj\Debug\net6.0\refint\example005-hello_masha.dll
+C:\Users\user\Desktop\geek brains\examples 26.11.23\example005-hello_masha\obj\Debug\net6.0\example005-hello_masha.pdb
+C:\Users\user\Desktop\geek brains\examples 26.11.23\example005-hello_masha\obj\Debug\net6.0\example005-hello_masha.genruntimeconfig.cache
+C:\Users\user\Desktop\geek brains\examples 26.11.23\example005-hello_masha\obj\Debug\net6.0\ref\example005-hello_masha.dll
