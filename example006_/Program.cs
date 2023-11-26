@@ -1,0 +1,10 @@
+﻿int a = 6;
+int b = 9;
+int c = 5;
+int d = 3;
+int max = 0;
+if(a>max)    max = a;
+if(b>max) max = b;
+if(c>max) max = c;
+if(d>max) max = d;
+Console.WriteLine(max);
